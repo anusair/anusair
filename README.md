@@ -2,7 +2,7 @@
 
 I'm Ahmad, a software engineer based in Jordan.
 
-🎓 B.Sc. in Computer Information Systems (CIS)
+🎓 B.Sc. in Computer Information Systems (CIS) <br>
 💻 Passionate in software development, tech and solving code problem 
 🌱 Continuously learning and experimenting with new technologies
 <!--
