@@ -6,7 +6,7 @@ I'm Ahmad, a software engineer based in Jordan.
 💻 Passionate in software development, tech and solving code problem  <br>
 🌱 Continuously learning and experimenting with new technologies <br>
 
-+250 Problem solved on LeetCode 
++250 Problems solved on LeetCode 
 
 ## Skills: 
   - React JS
