@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Ahmad, a software engineer based in Jordan.
+
+🎓 B.Sc. in Computer Information Systems (CIS)
+💻 Passionate in software development, tech and solving code problem 
+🌱 Continuously learning and experimenting with new technologies
 <!--
 **anusair/anusair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
