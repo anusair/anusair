@@ -3,8 +3,14 @@
 I'm Ahmad, a software engineer based in Jordan.
 
 🎓 B.Sc. in Computer Information Systems (CIS) <br>
-💻 Passionate in software development, tech and solving code problem 
-🌱 Continuously learning and experimenting with new technologies
+💻 Passionate in software development, tech and solving code problem  <br>
+🌱 Continuously learning and experimenting with new technologies <br>
+
+
+## Skills: 
+  - React JS
+  - Node JS & Express JS
+  - Laravel 
 <!--
 **anusair/anusair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
